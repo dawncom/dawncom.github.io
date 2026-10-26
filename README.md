@@ -2,7 +2,7 @@
 
 # dawncom
 
-![Visitor Count](https://profile-counter.glitch.me/dawncom/count.svg)
+![Profile views](https://komarev.com/ghpvc/?username=dawncom&label=Profile%20views&color=fe428e&style=flat)
 
 ---
 
