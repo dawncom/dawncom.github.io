@@ -1,6 +1,17 @@
+<div align="center">
+
+# dawncom
+
 ![Visitor Count](https://profile-counter.glitch.me/dawncom/count.svg)
 
-![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=dawncom)
+---
 
+## GitHub Stats
 
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dawncom&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=dawncom&show_icons=true&theme=tokyonight&hide_border=true)
+
+## Top Languages
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dawncom&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=tokyonight" alt="Top Languages" />
+
+</div>
